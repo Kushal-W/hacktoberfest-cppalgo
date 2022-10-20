@@ -1,0 +1,8 @@
+These Should be the inputs
+
+red
+orange
+yellow
+green
+blue
+purple
